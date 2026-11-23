@@ -9,4 +9,4 @@ Reproducible counterfactual audit pipeline and diagnostic literature database ac
 - `appraised_studies.json`: Structured 6-feature diagnostic rubric matrix across 12 core Chinese-language empirical studies (Appendix A).
 
 ## Data Attribution
-Cofacts evaluation records are accessed via [`Cofacts/line-msg-fact-check-tw`](https://huggingface.co) under **CC BY-SA 4.0**.
+Cofacts evaluation records are accessed via [`Cofacts/line-msg-fact-check-tw`](https://huggingface.co) under **CC BY-SA 4.0**. 
