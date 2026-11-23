@@ -1,0 +1,110 @@
+[
+  {
+    "study": "MDFEND (2021)",
+    "temporal_or_unseen_split": 0.0,
+    "leakage_control": 0.5,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.0,
+    "open_code_and_data": 0.5
+  },
+  {
+    "study": "MCFEND (2024)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.0,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "CHEF (2022)",
+    "temporal_or_unseen_split": 0.0,
+    "leakage_control": 0.5,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "Zhang et al. (2024)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "FakeSV (2023)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.0,
+    "open_code_and_data": 0.5
+  },
+  {
+    "study": "ARG-Chinese (2024)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 0.5
+  },
+  {
+    "study": "Hu et al. (2023)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.0,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "Dual-Emotion (2021)",
+    "temporal_or_unseen_split": 0.5,
+    "leakage_control": 0.5,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "ENDEF (2022)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "NEP (2022)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "Xu et al. (2024)",
+    "temporal_or_unseen_split": 0.5,
+    "leakage_control": 0.5,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 1.0
+  },
+  {
+    "study": "FakingRecipe (2024)",
+    "temporal_or_unseen_split": 1.0,
+    "leakage_control": 1.0,
+    "bert_baseline": 1.0,
+    "component_ablation": 1.0,
+    "quantitative_faithfulness": 0.5,
+    "open_code_and_data": 0.5
+  }
+]
